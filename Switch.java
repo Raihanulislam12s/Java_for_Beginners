@@ -19,3 +19,9 @@ public class Print_the_greeting_with_switch {
         }
     }
 }
+/*output
+click 1:Hello
+click 2:Hi
+click 3:How are you??
+click other:Invalid Button
+*/
