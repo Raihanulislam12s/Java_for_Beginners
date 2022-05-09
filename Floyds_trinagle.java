@@ -24,7 +24,7 @@ public class Floyds_Tringle {
             //inner loop
             for (int j=1;j<=i;j++){
                 System.out.print(num+" ");
-                num++;
+                num++;//num=num+1;
             }
             System.out.println();
         }
